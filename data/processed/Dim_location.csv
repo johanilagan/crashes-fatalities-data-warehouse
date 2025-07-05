@@ -1,0 +1,804 @@
+location_id,lga_name,sa4_name,state_name,remoteness_area
+L101,Wagga Wagga,Riverina,NSW,Inner Regional Australia
+L102,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,NSW,Inner Regional Australia
+L103,Northern Midlands,Launceston and North East,Tas,Inner Regional Australia
+L104,Armidale Regional,New England and North West,NSW,Outer Regional Australia
+L105,Lockyer Valley,Toowoomba,Qld,Inner Regional Australia
+L106,Wakefield,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L107,,,WA,
+L108,Southern Downs,Darling Downs - Maranoa,Qld,Inner Regional Australia
+L109,Brighton,Hobart,Tas,Inner Regional Australia
+L110,West Tamar,Launceston and North East,Tas,Outer Regional Australia
+L111,Mid Murray,South Australia - South East,SA,Outer Regional Australia
+L112,Blue Mountains,Sydney - Outer West and Blue Mountains,NSW,Major Cities of Australia
+L113,Upper Lachlan,Capital Region,NSW,Inner Regional Australia
+L114,Wattle Range,South Australia - South East,SA,Outer Regional Australia
+L115,Cairns,Cairns,Qld,Outer Regional Australia
+L116,Unincorporated ACT,Australian Capital Territory,ACT,Major Cities of Australia
+L117,Wollongong,Illawarra,NSW,Major Cities of Australia
+L118,Penrith,Sydney - Outer West and Blue Mountains,NSW,Major Cities of Australia
+L119,Upper Hunter,Hunter Valley exc Newcastle,NSW,Outer Regional Australia
+L120,South Burnett,Wide Bay,Qld,Outer Regional Australia
+L121,Mid-Western Regional,Central West,NSW,Outer Regional Australia
+L122,Canterbury-Bankstown,Sydney - Inner South West,NSW,Major Cities of Australia
+L123,,,NT,
+L124,Mitchell,Hume,Vic,Inner Regional Australia
+L125,Greater Hume,Murray,NSW,Outer Regional Australia
+L126,Southern Downs,Darling Downs - Maranoa,Qld,Outer Regional Australia
+L127,Barossa,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+L128,Port Macquarie-Hastings,Mid North Coast,NSW,Inner Regional Australia
+L129,Douglas,Cairns,Qld,Outer Regional Australia
+L130,Mackay,Mackay - Isaac - Whitsunday,Qld,Outer Regional Australia
+L131,Yankalilla,South Australia - South East,SA,Inner Regional Australia
+L132,Logan,Logan - Beaudesert,Qld,Major Cities of Australia
+L133,Dorset,Launceston and North East,Tas,Outer Regional Australia
+L134,Armidale Regional,New England and North West,NSW,Inner Regional Australia
+L135,Nambucca Valley,Mid North Coast,NSW,Inner Regional Australia
+L136,Narromine,Far West and Orana,NSW,Outer Regional Australia
+L137,Fraser Coast,Wide Bay,Qld,Inner Regional Australia
+L138,Unincorporated SA,South Australia - Outback,SA,Very Remote Australia
+L139,Shellharbour,Illawarra,NSW,Major Cities of Australia
+L140,Narrabri,New England and North West,NSW,Outer Regional Australia
+L141,Logan,Logan - Beaudesert,Qld,Inner Regional Australia
+L142,Cook,Queensland - Outback,Qld,Remote Australia
+L143,Tenterfield,New England and North West,NSW,Outer Regional Australia
+L144,Greater Bendigo,Bendigo,Vic,Inner Regional Australia
+L145,Central Coast,Central Coast,NSW,Major Cities of Australia
+L146,Tamworth Regional,New England and North West,NSW,Outer Regional Australia
+L147,Whittlesea,Melbourne - North East,Vic,Major Cities of Australia
+L148,Hilltops,Capital Region,NSW,Inner Regional Australia
+L149,Forbes,Central West,NSW,Outer Regional Australia
+L150,Toowoomba,Toowoomba,Qld,Inner Regional Australia
+L151,Lake Macquarie,Newcastle and Lake Macquarie,NSW,Major Cities of Australia
+L152,Livingstone,Central Queensland,Qld,Remote Australia
+L153,Northern Midlands,Launceston and North East,Tas,Outer Regional Australia
+L154,Blacktown,Sydney - Blacktown,NSW,Major Cities of Australia
+L155,Dubbo Regional,Far West and Orana,NSW,Inner Regional Australia
+L156,Balranald,Murray,NSW,Outer Regional Australia
+L157,Lockhart River,Queensland - Outback,Qld,Very Remote Australia
+L158,Golden Plains,Ballarat,Vic,Inner Regional Australia
+L159,Light,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+L160,Ipswich,Ipswich,Qld,Major Cities of Australia
+L161,Cassowary Coast,Cairns,Qld,Outer Regional Australia
+L162,Tumby Bay,South Australia - Outback,SA,Remote Australia
+L163,Liverpool,Sydney - South West,NSW,Major Cities of Australia
+L164,Cumberland,Sydney - Parramatta,NSW,Major Cities of Australia
+L165,Muswellbrook,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+L166,Moreton Bay,Moreton Bay - North,Qld,Inner Regional Australia
+L167,Ballina,Richmond - Tweed,NSW,Inner Regional Australia
+L168,Kyogle,Richmond - Tweed,NSW,Inner Regional Australia
+L169,Bundaberg,Wide Bay,Qld,Inner Regional Australia
+L170,Melbourne,Melbourne - Inner,Vic,Major Cities of Australia
+L171,Brisbane,Brisbane - South,Qld,Major Cities of Australia
+L172,,,Vic,
+L173,Snowy Valleys,Riverina,NSW,Outer Regional Australia
+L174,Whitsunday,Mackay - Isaac - Whitsunday,Qld,Outer Regional Australia
+L175,Fairfield,Sydney - South West,NSW,Major Cities of Australia
+L176,Yass Valley,Capital Region,NSW,Inner Regional Australia
+L177,Central Highlands (Qld),Central Queensland,Qld,Remote Australia
+L178,The Hills,Sydney - Baulkham Hills and Hawkesbury,NSW,Major Cities of Australia
+L179,Salisbury,Adelaide - North,SA,Major Cities of Australia
+L180,Port Stephens,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+L181,Macedon Ranges,Melbourne - North West,Vic,Inner Regional Australia
+L182,Moyne,Warrnambool and South West,Vic,Inner Regional Australia
+L183,Cardinia,Melbourne - South East,Vic,Major Cities of Australia
+L184,East Gippsland,Latrobe - Gippsland,Vic,Outer Regional Australia
+L185,Hornsby,Sydney - Baulkham Hills and Hawkesbury,NSW,Major Cities of Australia
+L186,Mareeba,Queensland - Outback,Qld,Very Remote Australia
+L187,Rockhampton,Central Queensland,Qld,Inner Regional Australia
+L188,Mid-Coast,Mid North Coast,NSW,Inner Regional Australia
+L189,Ipswich,Ipswich,Qld,Inner Regional Australia
+L190,Glenelg,Warrnambool and South West,Vic,Outer Regional Australia
+L191,Western Downs,Darling Downs - Maranoa,Qld,Outer Regional Australia
+L192,Port Adelaide Enfield,Adelaide - West,SA,Major Cities of Australia
+L193,Cabonne,Central West,NSW,Outer Regional Australia
+L194,Gold Coast,Gold Coast,Qld,Major Cities of Australia
+L195,Frankston,Mornington Peninsula,Vic,Major Cities of Australia
+L196,Moree Plains,New England and North West,NSW,Outer Regional Australia
+L197,Parramatta,Sydney - Parramatta,NSW,Major Cities of Australia
+L198,Meander Valley,Launceston and North East,Tas,Outer Regional Australia
+L199,Queanbeyan-Palerang Regional,Capital Region,NSW,Major Cities of Australia
+L200,Snowy Monaro Regional,Capital Region,NSW,Outer Regional Australia
+L201,Federation,Murray,NSW,Outer Regional Australia
+L202,,,ACT,
+L203,Brisbane,Brisbane Inner City,Qld,Major Cities of Australia
+L204,Cowra,Central West,NSW,Inner Regional Australia
+L205,Goulburn Mulwaree,Capital Region,NSW,Inner Regional Australia
+L206,Gympie,Wide Bay,Qld,Inner Regional Australia
+L207,Moreton Bay,Moreton Bay - South,Qld,Major Cities of Australia
+L208,Willoughby,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+L209,Shoalhaven,Capital Region,NSW,Inner Regional Australia
+L210,Queanbeyan-Palerang Regional,Capital Region,NSW,Inner Regional Australia
+L211,Nillumbik,Melbourne - North East,Vic,Inner Regional Australia
+L212,Wollongong,Illawarra,NSW,Inner Regional Australia
+L213,South Burnett,Wide Bay,Qld,Inner Regional Australia
+L214,Tatiara,South Australia - South East,SA,Remote Australia
+L215,Tweed,Richmond - Tweed,NSW,Inner Regional Australia
+L216,Mid-Coast,Mid North Coast,NSW,Outer Regional Australia
+L217,Ararat,North West,Vic,Inner Regional Australia
+L218,Colac Otway,Warrnambool and South West,Vic,Inner Regional Australia
+L219,McKinlay,Queensland - Outback,Qld,Very Remote Australia
+L220,Singleton,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+L221,Gladstone,Central Queensland,Qld,Outer Regional Australia
+L222,Lithgow,Central West,NSW,Inner Regional Australia
+L223,Campbelltown,Sydney - Outer South West,NSW,Major Cities of Australia
+L224,Sunshine Coast,Sunshine Coast,Qld,Major Cities of Australia
+L225,Warrumbungle,Far West and Orana,NSW,Outer Regional Australia
+L226,Noosa,Sunshine Coast,Qld,Major Cities of Australia
+L227,Port Stephens,Newcastle and Lake Macquarie,NSW,Major Cities of Australia
+L228,Moreton Bay,Moreton Bay - North,Qld,Major Cities of Australia
+L229,Gawler,Adelaide - North,SA,Major Cities of Australia
+L230,Alpine,Hume,Vic,Inner Regional Australia
+L231,Cabonne,Central West,NSW,Inner Regional Australia
+L232,Brisbane,Ipswich,Qld,Major Cities of Australia
+L233,Baw Baw,Latrobe - Gippsland,Vic,Inner Regional Australia
+L234,Isaac,Mackay - Isaac - Whitsunday,Qld,Remote Australia
+L235,Maranoa,Darling Downs - Maranoa,Qld,Remote Australia
+L236,Southern Grampians,Warrnambool and South West,Vic,Outer Regional Australia
+L237,Cessnock,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+L238,Scenic Rim,Logan - Beaudesert,Qld,Inner Regional Australia
+L239,Somerset,Ipswich,Qld,Inner Regional Australia
+L240,Hinchinbrook,Townsville,Qld,Remote Australia
+L241,Mackay,Mackay - Isaac - Whitsunday,Qld,Inner Regional Australia
+L242,Stonnington,Melbourne - Inner South,Vic,Major Cities of Australia
+L243,Playford,Adelaide - North,SA,Major Cities of Australia
+L244,Cobar,Far West and Orana,NSW,Very Remote Australia
+L245,Ararat,North West,Vic,Outer Regional Australia
+L246,Adelaide Hills,Adelaide - Central and Hills,SA,Inner Regional Australia
+L247,Bega Valley,Capital Region,NSW,Outer Regional Australia
+L248,Tea Tree Gully,Adelaide - North,SA,Major Cities of Australia
+L249,Kiama,Illawarra,NSW,Inner Regional Australia
+L250,Moyne,Warrnambool and South West,Vic,Outer Regional Australia
+L251,Wollondilly,Sydney - Outer South West,NSW,Inner Regional Australia
+L252,Scenic Rim,Ipswich,Qld,Inner Regional Australia
+L253,Casey,Melbourne - South East,Vic,Major Cities of Australia
+L254,Northern Areas,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L255,Tablelands,Cairns,Qld,Outer Regional Australia
+L256,Sydney,Sydney - City and Inner South,NSW,Major Cities of Australia
+L257,Murrindindi,Hume,Vic,Inner Regional Australia
+L258,Albury,Murray,NSW,Inner Regional Australia
+L259,Boroondara,Melbourne - Inner East,Vic,Major Cities of Australia
+L260,Redland,Brisbane - East,Qld,Major Cities of Australia
+L261,Playford,Adelaide - North,SA,Inner Regional Australia
+L262,South Gippsland,Latrobe - Gippsland,Vic,Inner Regional Australia
+L263,Hinchinbrook,Townsville,Qld,Outer Regional Australia
+L264,Yarra Ranges,Melbourne - Outer East,Vic,Inner Regional Australia
+L265,Surf Coast,Geelong,Vic,Inner Regional Australia
+L266,Mount Barker,Adelaide - Central and Hills,SA,Inner Regional Australia
+L267,Brisbane,Brisbane - East,Qld,Major Cities of Australia
+L268,Cessnock,Hunter Valley exc Newcastle,NSW,Major Cities of Australia
+L269,Maitland,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+L270,Hobart,Hobart,Tas,Inner Regional Australia
+L271,Mitcham,Adelaide - South,SA,Major Cities of Australia
+L272,Clarence Valley,Coffs Harbour - Grafton,NSW,Inner Regional Australia
+L273,Adelaide,Adelaide - Central and Hills,SA,Major Cities of Australia
+L274,Clarence,,Tas,Inner Regional Australia
+L275,Lismore,Richmond - Tweed,NSW,Inner Regional Australia
+L276,Greater Shepparton,Shepparton,Vic,Inner Regional Australia
+L277,Moreland,Melbourne - North West,Vic,Major Cities of Australia
+L278,Narrandera,Riverina,NSW,Outer Regional Australia
+L279,Huon Valley,South East,Tas,Outer Regional Australia
+L280,Townsville,Townsville,Qld,Outer Regional Australia
+L281,Griffith,Riverina,NSW,Outer Regional Australia
+L282,Wodonga,Hume,Vic,Inner Regional Australia
+L283,Mid-Coast,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+L284,Darebin,Melbourne - Inner,Vic,Major Cities of Australia
+L285,Ballarat,Ballarat,Vic,Inner Regional Australia
+L286,Wingecarribee,Southern Highlands and Shoalhaven,NSW,Inner Regional Australia
+L287,Cardinia,Melbourne - South East,Vic,Inner Regional Australia
+L288,Maroondah,Melbourne - Outer East,Vic,Major Cities of Australia
+L289,Tweed,Richmond - Tweed,NSW,Major Cities of Australia
+L290,North Burnett,Wide Bay,Qld,Outer Regional Australia
+L291,Moree Plains,New England and North West,NSW,Remote Australia
+L292,Mornington Peninsula,Mornington Peninsula,Vic,Major Cities of Australia
+L293,Unley,Adelaide - Central and Hills,SA,Major Cities of Australia
+L294,Alexandrina,South Australia - South East,SA,Inner Regional Australia
+L295,Gympie,Wide Bay,Qld,Outer Regional Australia
+L296,Melton,Melbourne - West,Vic,Major Cities of Australia
+L297,Burdekin,Townsville,Qld,Outer Regional Australia
+L298,Knox,Melbourne - Outer East,Vic,Major Cities of Australia
+L299,Whittlesea,Melbourne - North East,Vic,Inner Regional Australia
+L300,Monash,Melbourne - South East,Vic,Major Cities of Australia
+L301,Unincorporated,Far West and Orana,NSW,Very Remote Australia
+L302,Barcaldine,Queensland - Outback,Qld,Very Remote Australia
+L303,Wyndham,Melbourne - West,Vic,Major Cities of Australia
+L304,Glen Innes Severn,New England and North West,NSW,Outer Regional Australia
+L305,Brisbane,Brisbane - West,Qld,Major Cities of Australia
+L306,Northern Beaches,Sydney - Northern Beaches,NSW,Major Cities of Australia
+L307,Livingstone,Central Queensland,Qld,Outer Regional Australia
+L308,Yarra Ranges,Melbourne - Outer East,Vic,Major Cities of Australia
+L309,Cook,Queensland - Outback,Qld,Very Remote Australia
+L310,Clarence,Hobart,Tas,Inner Regional Australia
+L311,Georges River,Sydney - Inner South West,NSW,Major Cities of Australia
+L312,Maitland,Hunter Valley exc Newcastle,NSW,Major Cities of Australia
+L313,Greater Hume,Murray,NSW,Inner Regional Australia
+L314,Kingston (Vic.),Melbourne - South East,Vic,Major Cities of Australia
+L315,Manningham,Melbourne - Inner East,Vic,Major Cities of Australia
+L316,Bathurst Regional,Central West,NSW,Inner Regional Australia
+L317,Wudinna,South Australia - Outback,SA,Remote Australia
+L318,Inverell,New England and North West,NSW,Outer Regional Australia
+L319,Brimbank,Melbourne - West,Vic,Major Cities of Australia
+L320,Darebin,Melbourne - North East,Vic,Major Cities of Australia
+L321,Charles Sturt,Adelaide - West,SA,Major Cities of Australia
+L322,Flinders (Tas.),Launceston and North East,Tas,Very Remote Australia
+L323,Burnie,West and North West,Tas,Outer Regional Australia
+L324,Greater Geelong,Geelong,Vic,Major Cities of Australia
+L325,Adelaide Hills,Adelaide - Central and Hills,SA,Major Cities of Australia
+L326,Onkaparinga,Adelaide - South,SA,Inner Regional Australia
+L327,Launceston,Launceston and North East,Tas,Outer Regional Australia
+L328,Indigo,Hume,Vic,Inner Regional Australia
+L329,Yarra,Melbourne - Inner,Vic,Major Cities of Australia
+L330,Port Phillip,Melbourne - Inner,Vic,Major Cities of Australia
+L331,Waratah-Wynyard,West and North West,Tas,Outer Regional Australia
+L332,Campaspe,Shepparton,Vic,Inner Regional Australia
+L333,Barkly,Northern Territory - Outback,NT,Very Remote Australia
+L334,Blacktown,Sydney - Parramatta,NSW,Major Cities of Australia
+L335,Blayney,Central West,NSW,Inner Regional Australia
+L336,Campbelltown (SA),Adelaide - Central and Hills,SA,Major Cities of Australia
+L337,Latrobe (Vic.),Latrobe - Gippsland,Vic,Inner Regional Australia
+L338,Palmerston,Darwin,NT,Outer Regional Australia
+L339,Gunnedah,New England and North West,NSW,Outer Regional Australia
+L340,Break O'Day,Launceston and North East,Tas,Outer Regional Australia
+L341,Buloke,North West,Vic,Outer Regional Australia
+L342,West Wimmera,North West,Vic,Outer Regional Australia
+L343,Ku-ring-gai,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+L344,Casey,Melbourne - South East,Vic,Inner Regional Australia
+L345,Shoalhaven,Southern Highlands and Shoalhaven,NSW,Inner Regional Australia
+L346,Warrnambool,Warrnambool and South West,Vic,Inner Regional Australia
+L347,Berrigan,Murray,NSW,Inner Regional Australia
+L348,Warren,Far West and Orana,NSW,Remote Australia
+L349,Victoria Daly,Northern Territory - Outback,NT,Very Remote Australia
+L350,Moira,Shepparton,Vic,Inner Regional Australia
+L351,Brisbane,Brisbane - North,Qld,Major Cities of Australia
+L352,Berri Barmera,South Australia - South East,SA,Outer Regional Australia
+L353,Moonee Valley,Melbourne - Inner,Vic,Major Cities of Australia
+L354,Litchfield,Darwin,NT,Outer Regional Australia
+L355,Greater Dandenong,Melbourne - South East,Vic,Major Cities of Australia
+L356,Golden Plains,Geelong,Vic,Inner Regional Australia
+L357,Toowoomba,Darling Downs - Maranoa,Qld,Outer Regional Australia
+L358,Moonee Valley,Melbourne - North West,Vic,Major Cities of Australia
+L359,Onkaparinga,Adelaide - South,SA,Major Cities of Australia
+L360,Inner West,Sydney - Inner West,NSW,Major Cities of Australia
+L361,Whyalla,South Australia - Outback,SA,Outer Regional Australia
+L362,Rockhampton,Central Queensland,Qld,Outer Regional Australia
+L363,Unincorporated SA,South Australia - Outback,SA,Remote Australia
+L364,Gladstone,Central Queensland,Qld,Inner Regional Australia
+L365,Noosa,Sunshine Coast,Qld,Inner Regional Australia
+L366,Mount Isa,Queensland - Outback,Qld,Remote Australia
+L367,Kingston (Vic.),Melbourne - Inner South,Vic,Major Cities of Australia
+L368,Toowoomba,Darling Downs - Maranoa,Qld,Inner Regional Australia
+L369,Maribyrnong,Melbourne - West,Vic,Major Cities of Australia
+L370,Marion,Adelaide - South,SA,Major Cities of Australia
+L371,Gold Coast,Gold Coast,Qld,Inner Regional Australia
+L372,Mildura,North West,Vic,Outer Regional Australia
+L373,Hornsby,Sydney - North Sydney and Hornsby,NSW,Inner Regional Australia
+L374,Mansfield,Hume,Vic,Outer Regional Australia
+L375,Charters Towers,Townsville,Qld,Very Remote Australia
+L376,Richmond Valley,Richmond - Tweed,NSW,Inner Regional Australia
+L377,Sutherland,Sydney - Sutherland,NSW,Inner Regional Australia
+L378,Mid-Western Regional,Central West,NSW,Inner Regional Australia
+L379,Hume,Melbourne - North West,Vic,Major Cities of Australia
+L380,Newcastle,Newcastle and Lake Macquarie,NSW,Major Cities of Australia
+L381,West Tamar,Launceston and North East,Tas,Inner Regional Australia
+L382,Glen Eira,Melbourne - Inner South,Vic,Major Cities of Australia
+L383,Sunshine Coast,Sunshine Coast,Qld,Inner Regional Australia
+L384,Nillumbik,Melbourne - North East,Vic,Major Cities of Australia
+L385,Yarriambiack,North West,Vic,Remote Australia
+L386,Pyrenees,Ballarat,Vic,Inner Regional Australia
+L387,Unincorporated,Far West and Orana,NSW,Remote Australia
+L388,Strathfield,Sydney - Inner South West,NSW,Major Cities of Australia
+L389,Bayside,Sydney - Inner South West,NSW,Major Cities of Australia
+L390,Coffs Harbour,Coffs Harbour - Grafton,NSW,Inner Regional Australia
+L391,Lake Macquarie,Newcastle and Lake Macquarie,NSW,Inner Regional Australia
+L392,Bundaberg,Wide Bay,Qld,Outer Regional Australia
+L393,Mid Murray,South Australia - South East,SA,Inner Regional Australia
+L394,Murray Bridge,South Australia - South East,SA,Inner Regional Australia
+L395,Murray River,Murray,NSW,Outer Regional Australia
+L396,Camden,Sydney - Outer South West,NSW,Major Cities of Australia
+L397,Glenorchy,Hobart,Tas,Inner Regional Australia
+L398,Hornsby,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+L399,Randwick,Sydney - Eastern Suburbs,NSW,Major Cities of Australia
+L400,Strathfield,Sydney - Inner West,NSW,Major Cities of Australia
+L401,Hunters Hill,Sydney - Ryde,NSW,Major Cities of Australia
+L402,Wangaratta,Hume,Vic,Inner Regional Australia
+L403,Parkes,Central West,NSW,Outer Regional Australia
+L404,Dubbo Regional,Far West and Orana,NSW,Outer Regional Australia
+L405,Byron,Richmond - Tweed,NSW,Inner Regional Australia
+L406,Cabonne,Far West and Orana,NSW,Outer Regional Australia
+L407,Unincorporated ACT,Australian Capital Territory,ACT,Inner Regional Australia
+L408,Moorabool,Ballarat,Vic,Inner Regional Australia
+L409,Isaac,Mackay - Isaac - Whitsunday,Qld,Outer Regional Australia
+L410,Benalla,Hume,Vic,Inner Regional Australia
+L411,Bellingen,Coffs Harbour - Grafton,NSW,Inner Regional Australia
+L412,Wellington,Latrobe - Gippsland,Vic,Inner Regional Australia
+L413,Central Coast,Central Coast,NSW,Inner Regional Australia
+L414,Edward River,Murray,NSW,Outer Regional Australia
+L415,Coorong,South Australia - South East,SA,Outer Regional Australia
+L416,George Town,Launceston and North East,Tas,Outer Regional Australia
+L417,Ryde,Sydney - Ryde,NSW,Major Cities of Australia
+L418,Bass Coast,Latrobe - Gippsland,Vic,Inner Regional Australia
+L419,Richmond,Queensland - Outback,Qld,Very Remote Australia
+L420,Strathbogie,Hume,Vic,Inner Regional Australia
+L421,Hay,Murray,NSW,Remote Australia
+L422,Weddin,Central West,NSW,Outer Regional Australia
+L423,Moorabool,Melbourne - West,Vic,Inner Regional Australia
+L424,Moira,Shepparton,Vic,Outer Regional Australia
+L425,Lachlan,Central West,NSW,Outer Regional Australia
+L426,Waverley,Sydney - Eastern Suburbs,NSW,Major Cities of Australia
+L427,Northern Grampians,North West,Vic,Outer Regional Australia
+L428,Charters Towers,Townsville,Qld,Outer Regional Australia
+L429,Mareeba,Cairns,Qld,Outer Regional Australia
+L430,Horsham,North West,Vic,Outer Regional Australia
+L431,Adelaide Plains,Adelaide - North,SA,Inner Regional Australia
+L432,Stonnington,Melbourne - Inner,Vic,Major Cities of Australia
+L433,Mount Remarkable,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L434,Gilgandra,Far West and Orana,NSW,Outer Regional Australia
+L435,Adelaide Plains,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+L436,Goondiwindi,Darling Downs - Maranoa,Qld,Outer Regional Australia
+L437,Mitchell,Melbourne - North East,Vic,Inner Regional Australia
+L438,Cassowary Coast,Cairns,Qld,Remote Australia
+L439,Clare and Gilbert Valleys,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L440,Moreton Bay,Moreton Bay - South,Qld,Inner Regional Australia
+L441,West Torrens,Adelaide - West,SA,Major Cities of Australia
+L442,Yarriambiack,North West,Vic,Outer Regional Australia
+L443,Alpine,Hume,Vic,Outer Regional Australia
+L444,Snowy Valleys,Riverina,NSW,Inner Regional Australia
+L445,Whitehorse,Melbourne - Outer East,Vic,Major Cities of Australia
+L446,Cloncurry,Queensland - Outback,Qld,Very Remote Australia
+L447,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,NSW,Outer Regional Australia
+L448,Western Downs,Darling Downs - Maranoa,Qld,Remote Australia
+L449,Penrith,Sydney - South West,NSW,Major Cities of Australia
+L450,Redland,Brisbane - East,Qld,Outer Regional Australia
+L451,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,NSW,Major Cities of Australia
+L452,Sorell,Hobart,Tas,Inner Regional Australia
+L453,Towong,Hume,Vic,Outer Regional Australia
+L454,Grant,South Australia - South East,SA,Outer Regional Australia
+L455,Hepburn,Ballarat,Vic,Inner Regional Australia
+L456,Central Highlands (Qld),Central Queensland,Qld,Outer Regional Australia
+L457,Charters Towers,Townsville,Qld,Remote Australia
+L458,Blayney,Central West,NSW,Outer Regional Australia
+L459,Hilltops,Capital Region,NSW,Outer Regional Australia
+L460,Lockyer Valley,Ipswich,Qld,Inner Regional Australia
+L461,,,WA,Major Cities of Australia
+L462,Circular Head,West and North West,Tas,Remote Australia
+L463,Swan Hill,North West,Vic,Outer Regional Australia
+L464,Murrumbidgee,Riverina,NSW,Outer Regional Australia
+L465,,,WA,Inner Regional Australia
+L466,,,WA,Outer Regional Australia
+L467,Upper Lachlan,Capital Region,NSW,Outer Regional Australia
+L468,Orange,Central West,NSW,Inner Regional Australia
+L469,Launceston,Launceston and North East,Tas,Inner Regional Australia
+L470,Cowra,Central West,NSW,Outer Regional Australia
+L471,Walkerville,Adelaide - Central and Hills,SA,Major Cities of Australia
+L472,Bayside,Sydney - City and Inner South,NSW,Major Cities of Australia
+L473,Sutherland,Illawarra,NSW,Inner Regional Australia
+L474,Whitehorse,Melbourne - Inner East,Vic,Major Cities of Australia
+L475,,,WA,Remote Australia
+L476,Wentworth,Murray,NSW,Remote Australia
+L477,Tasman,South East,Tas,Outer Regional Australia
+L478,Latrobe (Tas.),West and North West,Tas,Outer Regional Australia
+L479,Port Augusta,South Australia - Outback,SA,Outer Regional Australia
+L480,Benalla,Hume,Vic,Outer Regional Australia
+L481,Liverpool Plains,New England and North West,NSW,Outer Regional Australia
+L482,Mornington Peninsula,Mornington Peninsula,Vic,Inner Regional Australia
+L483,Banana,Central Queensland,Qld,Outer Regional Australia
+L484,,,WA,Very Remote Australia
+L485,Mount Barker,Adelaide - Central and Hills,SA,Major Cities of Australia
+L486,Inner West,Sydney - City and Inner South,NSW,Major Cities of Australia
+L487,Loddon,Bendigo,Vic,Outer Regional Australia
+L488,Eurobodalla,Capital Region,NSW,Inner Regional Australia
+L489,Sutherland,Sydney - Sutherland,NSW,Major Cities of Australia
+L490,Roper Gulf,Northern Territory - Outback,NT,Very Remote Australia
+L491,Barunga West,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L492,Tamworth Regional,New England and North West,NSW,Inner Regional Australia
+L493,West Coast,West and North West,Tas,Remote Australia
+L494,Tatiara,South Australia - South East,SA,Outer Regional Australia
+L495,Snowy Monaro Regional,Capital Region,NSW,Inner Regional Australia
+L496,Etheridge,Queensland - Outback,Qld,Very Remote Australia
+L497,Bland,Central West,NSW,Outer Regional Australia
+L498,Oberon,Central West,NSW,Outer Regional Australia
+L499,Maranoa,Darling Downs - Maranoa,Qld,Outer Regional Australia
+L500,East Gippsland,Latrobe - Gippsland,Vic,Remote Australia
+L501,Corangamite,Warrnambool and South West,Vic,Inner Regional Australia
+L502,Yorke Peninsula,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L503,Derwent Valley,Hobart,Tas,Inner Regional Australia
+L504,Hornsby,Sydney - Ryde,NSW,Major Cities of Australia
+L505,Port Pirie,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L506,Muswellbrook,Hunter Valley exc Newcastle,NSW,Outer Regional Australia
+L507,Circular Head,West and North West,Tas,Outer Regional Australia
+L508,Devonport,West and North West,Tas,Outer Regional Australia
+L509,Flinders (Qld),Queensland - Outback,Qld,Very Remote Australia
+L510,Burwood,Sydney - Inner West,NSW,Major Cities of Australia
+L511,Alice Springs,Northern Territory - Outback,NT,Remote Australia
+L512,Nambucca Valley,Mid North Coast,NSW,Outer Regional Australia
+L513,Somerset,Moreton Bay - North,Qld,Outer Regional Australia
+L514,Lachlan,Central West,NSW,Remote Australia
+L515,Gwydir,New England and North West,NSW,Outer Regional Australia
+L516,Port Adelaide Enfield,Adelaide - North,SA,Major Cities of Australia
+L517,Macedon Ranges,Bendigo,Vic,Inner Regional Australia
+L518,Banyule,Melbourne - North East,Vic,Major Cities of Australia
+L519,Lithgow,Central West,NSW,Outer Regional Australia
+L520,Federation,Murray,NSW,Inner Regional Australia
+L521,Wagga Wagga,Riverina,NSW,Outer Regional Australia
+L522,Coonamble,Far West and Orana,NSW,Remote Australia
+L523,Kempsey,Mid North Coast,NSW,Inner Regional Australia
+L524,Carrathool,Riverina,NSW,Outer Regional Australia
+L525,Barcoo,Queensland - Outback,Qld,Very Remote Australia
+L526,Mareeba,Queensland - Outback,Qld,Outer Regional Australia
+L527,Hobsons Bay,Melbourne - West,Vic,Major Cities of Australia
+L528,Temora,Riverina,NSW,Outer Regional Australia
+L529,Karoonda East Murray,South Australia - South East,SA,Outer Regional Australia
+L530,Livingstone,Central Queensland,Qld,Inner Regional Australia
+L531,Unincorporated Vic,Latrobe - Gippsland,Vic,Outer Regional Australia
+L532,Gannawarra,North West,Vic,Outer Regional Australia
+L533,Blue Mountains,Sydney - Outer West and Blue Mountains,NSW,Inner Regional Australia
+L534,Ceduna,South Australia - Outback,SA,Very Remote Australia
+L535,Parramatta,Sydney - Ryde,NSW,Major Cities of Australia
+L536,Whitsunday,Mackay - Isaac - Whitsunday,Qld,Remote Australia
+L537,Shellharbour,Illawarra,NSW,Inner Regional Australia
+L538,Darwin,Darwin,NT,Outer Regional Australia
+L539,Baw Baw,Latrobe - Gippsland,Vic,Outer Regional Australia
+L540,Central Desert,Northern Territory - Outback,NT,Very Remote Australia
+L541,Sutherland,Sydney - Outer South West,NSW,Inner Regional Australia
+L542,Kempsey,Mid North Coast,NSW,Outer Regional Australia
+L543,Carpentaria,Queensland - Outback,Qld,Very Remote Australia
+L544,Wudinna,South Australia - Outback,SA,Very Remote Australia
+L545,Murweh,Queensland - Outback,Qld,Very Remote Australia
+L546,Eurobodalla,Capital Region,NSW,Outer Regional Australia
+L547,Renmark Paringa,South Australia - South East,SA,Outer Regional Australia
+L548,Loxton Waikerie,South Australia - South East,SA,Outer Regional Australia
+L549,Central Coast (Tas.),West and North West,Tas,Outer Regional Australia
+L550,Berrigan,Murray,NSW,Outer Regional Australia
+L551,Norwood Payneham and St Peters,Adelaide - Central and Hills,SA,Major Cities of Australia
+L552,Sorell,Hobart,Tas,Outer Regional Australia
+L553,Clarence Valley,Coffs Harbour - Grafton,NSW,Outer Regional Australia
+L554,Yass Valley,Capital Region,NSW,Major Cities of Australia
+L555,MacDonnell,Northern Territory - Outback,NT,Very Remote Australia
+L556,Leeton,Riverina,NSW,Outer Regional Australia
+L557,Balranald,Murray,NSW,Remote Australia
+L558,Scenic Rim,Gold Coast,Qld,Inner Regional Australia
+L559,Port Macquarie-Hastings,Mid North Coast,NSW,Outer Regional Australia
+L560,Kingborough,South East,Tas,Outer Regional Australia
+L561,Moreland,Melbourne - Inner,Vic,Major Cities of Australia
+L562,Copper Coast,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L563,Lockhart,Riverina,NSW,Inner Regional Australia
+L564,Naracoorte Lucindale,South Australia - South East,SA,Outer Regional Australia
+L565,Southern Mallee,South Australia - South East,SA,Remote Australia
+L566,Glen Innes Severn,New England and North West,NSW,Inner Regional Australia
+L567,Hornsby,Sydney - Baulkham Hills and Hawkesbury,NSW,Inner Regional Australia
+L568,Kentish,West and North West,Tas,Outer Regional Australia
+L569,Goyder,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+L570,Brimbank,Melbourne - North West,Vic,Major Cities of Australia
+L571,Flinders Ranges,South Australia - Outback,SA,Outer Regional Australia
+L572,Greater Geelong,Geelong,Vic,Inner Regional Australia
+L573,Loddon,Bendigo,Vic,Inner Regional Australia
+L574,Wellington,Latrobe - Gippsland,Vic,Outer Regional Australia
+L575,Junee,Riverina,NSW,Inner Regional Australia
+L576,Victor Harbor,South Australia - South East,SA,Inner Regional Australia
+L577,Burnside,Adelaide - Central and Hills,SA,Major Cities of Australia
+L578,Coomalie,Northern Territory - Outback,NT,Remote Australia
+L579,Manningham,Melbourne - Outer East,Vic,Major Cities of Australia
+L580,Corangamite,Warrnambool and South West,Vic,Outer Regional Australia
+L581,Wakefield,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+L582,Mosman,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+L583,Glamorgan-Spring Bay,South East,Tas,Outer Regional Australia
+L584,Hawkesbury,Sydney - Outer West and Blue Mountains,NSW,Major Cities of Australia
+L585,Penrith,Sydney - Outer West and Blue Mountains,NSW,Inner Regional Australia
+L586,Murrindindi,Melbourne - North East,Vic,Inner Regional Australia
+L587,Southern Midlands,South East,Tas,Outer Regional Australia
+L588,Scenic Rim,Logan - Beaudesert,Qld,Outer Regional Australia
+L589,Mount Alexander,Bendigo,Vic,Inner Regional Australia
+L590,North Sydney,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+L591,Western Downs,Darling Downs - Maranoa,Qld,Inner Regional Australia
+L592,Woollahra,Sydney - Eastern Suburbs,NSW,Major Cities of Australia
+L593,Prospect,Adelaide - Central and Hills,SA,Major Cities of Australia
+L594,Katherine,Northern Territory - Outback,NT,Remote Australia
+L595,Mareeba,Queensland - Outback,Qld,Remote Australia
+L596,Mildura,North West,Vic,Remote Australia
+L597,Northern Peninsula Area,Queensland - Outback,Qld,Very Remote Australia
+L598,Mitchell,Melbourne - North East,Vic,Major Cities of Australia
+L599,Wingecarribee,Sydney - Outer South West,NSW,Inner Regional Australia
+L600,Kyogle,Richmond - Tweed,NSW,Outer Regional Australia
+L601,Port Stephens,Hunter Valley exc Newcastle,NSW,Major Cities of Australia
+L602,Unincorporated NT,Darwin,NT,Outer Regional Australia
+L603,Orroroo Carrieton,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L604,Central Goldfields,Ballarat,Vic,Inner Regional Australia
+L605,Unincorporated NT,Northern Territory - Outback,NT,Remote Australia
+L606,Central Darling,Far West and Orana,NSW,Very Remote Australia
+L607,Balonne,Darling Downs - Maranoa,Qld,Remote Australia
+L608,Kingborough,Hobart,Tas,Inner Regional Australia
+L609,Maranoa,Darling Downs - Maranoa,Qld,Very Remote Australia
+L610,Walgett,Far West and Orana,NSW,Remote Australia
+L611,Coolamon,Riverina,NSW,Outer Regional Australia
+L612,Bulloo,Queensland - Outback,Qld,Very Remote Australia
+L613,Bellingen,Coffs Harbour - Grafton,NSW,Outer Regional Australia
+L614,Lane Cove,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+L615,Walcha,New England and North West,NSW,Outer Regional Australia
+L616,Northern Grampians,North West,Vic,Inner Regional Australia
+L617,Bogan,Far West and Orana,NSW,Very Remote Australia
+L618,The Hills,Sydney - Baulkham Hills and Hawkesbury,NSW,Inner Regional Australia
+L619,South Gippsland,Latrobe - Gippsland,Vic,Outer Regional Australia
+L620,Wollondilly,Illawarra,NSW,Inner Regional Australia
+L621,Cleve,South Australia - Outback,SA,Remote Australia
+L622,West Arnhem,Northern Territory - Outback,NT,Remote Australia
+L623,Wentworth,Murray,NSW,Outer Regional Australia
+L624,Canterbury-Bankstown,Sydney - Parramatta,NSW,Major Cities of Australia
+L625,King Island,West and North West,Tas,Very Remote Australia
+L626,Kangaroo Island,South Australia - South East,SA,Remote Australia
+L627,Meander Valley,Launceston and North East,Tas,Inner Regional Australia
+L628,Uralla,New England and North West,NSW,Inner Regional Australia
+L629,Holdfast Bay,Adelaide - South,SA,Major Cities of Australia
+L630,Douglas,Cairns,Qld,Remote Australia
+L631,Carrathool,Riverina,NSW,Remote Australia
+L632,Bogan,Far West and Orana,NSW,Remote Australia
+L633,Brewarrina,Far West and Orana,NSW,Very Remote Australia
+L634,Wollondilly,Sydney - Outer West and Blue Mountains,NSW,Inner Regional Australia
+L635,East Arnhem,Northern Territory - Outback,NT,Very Remote Australia
+L636,Port Lincoln,South Australia - Outback,SA,Remote Australia
+L637,Light,Adelaide - North,SA,Inner Regional Australia
+L638,Camden,Sydney - South West,NSW,Major Cities of Australia
+L639,Queanbeyan-Palerang Regional,Capital Region,NSW,Outer Regional Australia
+L640,Longreach,Queensland - Outback,Qld,Very Remote Australia
+L641,Maitland,Newcastle and Lake Macquarie,NSW,Major Cities of Australia
+L642,Colac Otway,Warrnambool and South West,Vic,Outer Regional Australia
+L643,Lower Eyre Peninsula,South Australia - Outback,SA,Remote Australia
+L644,MacDonnell,Northern Territory - Outback,NT,Remote Australia
+L645,Dandaragan,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L646,York,Western Australia - Wheat Belt,WA,Inner Regional Australia
+L647,Rockingham,Perth - South West,WA,Major Cities of Australia
+L648,Plantagenet,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L649,Kwinana,Perth - South West,WA,Major Cities of Australia
+L650,Murray,Mandurah,WA,Inner Regional Australia
+L651,Dumbleyung,Western Australia - Wheat Belt,WA,Remote Australia
+L652,Port Hedland,Western Australia - Outback (North),WA,Remote Australia
+L653,Coolamon,Riverina,NSW,Inner Regional Australia
+L654,Stirling,Perth - North West,WA,Major Cities of Australia
+L655,Robe,South Australia - South East,SA,Outer Regional Australia
+L656,Cambridge,Perth - Inner,WA,Major Cities of Australia
+L657,Swan,Perth - North East,WA,Major Cities of Australia
+L658,Wanneroo,Perth - North West,WA,Major Cities of Australia
+L659,Somerset,Moreton Bay - North,Qld,Inner Regional Australia
+L660,Canning,Perth - South East,WA,Major Cities of Australia
+L661,Richmond Valley,Richmond - Tweed,NSW,Outer Regional Australia
+L662,Gosnells,Perth - South East,WA,Major Cities of Australia
+L663,The Hills,Sydney - Ryde,NSW,Major Cities of Australia
+L664,Serpentine-Jarrahdale,Perth - South East,WA,Major Cities of Australia
+L665,Mandurah,Mandurah,WA,Major Cities of Australia
+L666,Southern Mallee,South Australia - South East,SA,Outer Regional Australia
+L667,Woodanilling,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L668,Warrumbungle,Central West,NSW,Outer Regional Australia
+L669,Dowerin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L670,Kalgoorlie-Boulder,Western Australia - Outback (South),WA,Outer Regional Australia
+L671,Greater Geraldton,Western Australia - Outback (South),WA,Outer Regional Australia
+L672,Harvey,Bunbury,WA,Inner Regional Australia
+L673,Serpentine-Jarrahdale,Perth - South East,WA,Inner Regional Australia
+L674,Bayswater,Perth - North East,WA,Major Cities of Australia
+L675,Doomadgee,Queensland - Outback,Qld,Very Remote Australia
+L676,Croydon,Queensland - Outback,Qld,Very Remote Australia
+L677,West Arnhem,Northern Territory - Outback,NT,Very Remote Australia
+L678,Albany,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L679,Central Highlands (Tas.),South East,Tas,Outer Regional Australia
+L680,Lockhart,Riverina,NSW,Outer Regional Australia
+L681,Chittering,Western Australia - Wheat Belt,WA,Inner Regional Australia
+L682,Perenjori,Western Australia - Outback (South),WA,Remote Australia
+L683,Mount Magnet,Western Australia - Outback (South),WA,Very Remote Australia
+L684,Donnybrook-Balingup,Bunbury,WA,Inner Regional Australia
+L685,Cobar,Far West and Orana,NSW,Remote Australia
+L686,Hope Vale,Queensland - Outback,Qld,Remote Australia
+L687,Augusta Margaret River,Bunbury,WA,Outer Regional Australia
+L688,Vincent,Perth - Inner,WA,Major Cities of Australia
+L689,Wickepin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L690,Clare and Gilbert Valleys,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+L691,Wangaratta,Hume,Vic,Outer Regional Australia
+L692,Melton,Melbourne - North West,Vic,Major Cities of Australia
+L693,Cockburn,Perth - South West,WA,Major Cities of Australia
+L694,Kalgoorlie-Boulder,Western Australia - Outback (South),WA,Very Remote Australia
+L695,Victoria Park,Perth - South East,WA,Major Cities of Australia
+L696,Armadale,Perth - South East,WA,Major Cities of Australia
+L697,Bunbury,Bunbury,WA,Inner Regional Australia
+L698,Kalamunda,Perth - South East,WA,Major Cities of Australia
+L699,Gingin,Western Australia - Wheat Belt,WA,Inner Regional Australia
+L700,Moora,Western Australia - Wheat Belt,WA,Remote Australia
+L701,Perth,Perth - Inner,WA,Major Cities of Australia
+L702,Busselton,Bunbury,WA,Inner Regional Australia
+L703,Williams,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L704,Augusta Margaret River,Bunbury,WA,Inner Regional Australia
+L705,Derwent Valley,South East,Tas,Outer Regional Australia
+L706,Quilpie,Queensland - Outback,Qld,Very Remote Australia
+L707,Kojonup,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L708,Mount Marshall,Western Australia - Wheat Belt,WA,Remote Australia
+L709,Kingston (SA),South Australia - South East,SA,Outer Regional Australia
+L710,Karratha,Western Australia - Outback (North),WA,Remote Australia
+L711,Elliston,South Australia - Outback,SA,Very Remote Australia
+L712,Coolgardie,Western Australia - Outback (South),WA,Very Remote Australia
+L713,Port Hedland,Western Australia - Outback (North),WA,Very Remote Australia
+L714,Tablelands,Cairns,Qld,Remote Australia
+L715,Monash,Melbourne - Inner South,Vic,Major Cities of Australia
+L716,Derby-West Kimberley,Western Australia - Outback (North),WA,Very Remote Australia
+L717,Mundaring,Perth - North East,WA,Inner Regional Australia
+L718,Light,Adelaide - North,SA,Major Cities of Australia
+L719,Belmont,Perth - South East,WA,Major Cities of Australia
+L720,Nungarin,Western Australia - Wheat Belt,WA,Remote Australia
+L721,Bayside (Vic.),Melbourne - Inner South,Vic,Major Cities of Australia
+L722,Northam,Western Australia - Wheat Belt,WA,Inner Regional Australia
+L723,Melville,Perth - South West,WA,Major Cities of Australia
+L724,Bassendean,Perth - North East,WA,Major Cities of Australia
+L725,Yilgarn,Western Australia - Wheat Belt,WA,Remote Australia
+L726,Broome,Western Australia - Outback (North),WA,Very Remote Australia
+L727,Chapman Valley,Western Australia - Outback (South),WA,Remote Australia
+L728,Uralla,New England and North West,NSW,Outer Regional Australia
+L729,Broomehill-Tambellup,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L730,Meekatharra,Western Australia - Outback (South),WA,Very Remote Australia
+L731,Esperance,Western Australia - Outback (South),WA,Remote Australia
+L732,Sunshine Coast,Moreton Bay - North,Qld,Inner Regional Australia
+L733,Capel,Bunbury,WA,Inner Regional Australia
+L734,Dundas,Western Australia - Outback (South),WA,Very Remote Australia
+L735,Federation,Riverina,NSW,Outer Regional Australia
+L736,Towong,Hume,Vic,Inner Regional Australia
+L737,Lake Grace,Western Australia - Wheat Belt,WA,Very Remote Australia
+L738,Dardanup,Bunbury,WA,Inner Regional Australia
+L739,Kondinin,Western Australia - Wheat Belt,WA,Very Remote Australia
+L740,Kent,Western Australia - Wheat Belt,WA,Remote Australia
+L741,Canada Bay,Sydney - Inner West,NSW,Major Cities of Australia
+L742,Wagin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L743,Manjimup,Bunbury,WA,Outer Regional Australia
+L744,Fairfield,Sydney - Parramatta,NSW,Major Cities of Australia
+L745,Murray,Mandurah,WA,Major Cities of Australia
+L746,Denmark,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L747,Singleton,Hunter Valley exc Newcastle,NSW,Outer Regional Australia
+L748,Banana,Central Queensland,Qld,Remote Australia
+L749,Boddington,Western Australia - Wheat Belt,WA,Inner Regional Australia
+L750,Bruce Rock,Western Australia - Wheat Belt,WA,Remote Australia
+L751,Swan,Perth - North East,WA,Inner Regional Australia
+L752,Kulin,Western Australia - Wheat Belt,WA,Remote Australia
+L753,Cuballing,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L754,Dungog,Hunter Valley exc Newcastle,NSW,Outer Regional Australia
+L755,Carnarvon,Western Australia - Outback (South),WA,Very Remote Australia
+L756,Hindmarsh,North West,Vic,Outer Regional Australia
+L757,Wyndham-East Kimberley,Western Australia - Outback (North),WA,Very Remote Australia
+L758,Beverley,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L759,Ravensthorpe,Western Australia - Outback (South),WA,Very Remote Australia
+L760,Joondalup,Perth - North West,WA,Major Cities of Australia
+L761,Mount Isa,Queensland - Outback,Qld,Very Remote Australia
+L762,Moorabool,Melbourne - West,Vic,Major Cities of Australia
+L763,Coober Pedy,South Australia - Outback,SA,Very Remote Australia
+L764,Central Highlands (Qld),Central Queensland,Qld,Very Remote Australia
+L765,Dalwallinu,Western Australia - Wheat Belt,WA,Remote Australia
+L766,Gnowangerup,Western Australia - Wheat Belt,WA,Remote Australia
+L767,Junee,Riverina,NSW,Outer Regional Australia
+L768,Loddon,Ballarat,Vic,Inner Regional Australia
+L769,,,Tas,
+L770,Goulburn Mulwaree,Capital Region,NSW,Outer Regional Australia
+L771,Goyder,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+L772,Wongan-Ballidu,Western Australia - Wheat Belt,WA,Remote Australia
+L773,Collie,Bunbury,WA,Inner Regional Australia
+L774,Armadale,Perth - South East,WA,Inner Regional Australia
+L775,Cootamundra-Gundagai,Riverina,NSW,Outer Regional Australia
+L776,Wanneroo,Perth - North West,WA,Inner Regional Australia
+L777,East Pilbara,Western Australia - Outback (North),WA,Very Remote Australia
+L778,Menzies,Western Australia - Outback (South),WA,Very Remote Australia
+L779,Halls Creek,Western Australia - Outback (North),WA,Very Remote Australia
+L780,Irwin,Western Australia - Outback (South),WA,Outer Regional Australia
+L781,Walgett,Far West and Orana,NSW,Very Remote Australia
+L782,Yarrabah,Cairns,Qld,Outer Regional Australia
+L783,Pingelly,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L784,Narrabri,New England and North West,NSW,Remote Australia
+L785,Broome,Western Australia - Outback (North),WA,Remote Australia
+L786,Kondinin,Western Australia - Wheat Belt,WA,Remote Australia
+L787,Cue,Western Australia - Outback (South),WA,Very Remote Australia
+L788,Hay,Murray,NSW,Outer Regional Australia
+L789,Wollondilly,Sydney - Outer South West,NSW,Major Cities of Australia
+L790,Fraser Coast,Wide Bay,Qld,Remote Australia
+L791,Quairading,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L792,Randwick,Sydney - City and Inner South,NSW,Major Cities of Australia
+L793,Mundaring,Perth - North East,WA,Major Cities of Australia
+L794,Mornington,Queensland - Outback,Qld,Very Remote Australia
+L795,Wandering,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L796,Nannup,Bunbury,WA,Outer Regional Australia
+L797,Broken Hill,Far West and Orana,NSW,Outer Regional Australia
+L798,Ngaanyatjarraku,Western Australia - Outback (South),WA,Very Remote Australia
+L799,Brisbane,Brisbane - West,Qld,Inner Regional Australia
+L800,Corrigin,Western Australia - Wheat Belt,WA,Remote Australia
+L801,Anangu Pitjantjatjara Yunkunytjatjara,South Australia - Outback,SA,Very Remote Australia
+L802,Fremantle,Perth - South West,WA,Major Cities of Australia
+L803,Toodyay,Western Australia - Wheat Belt,WA,Inner Regional Australia
+L804,Streaky Bay,South Australia - Outback,SA,Very Remote Australia
+L805,Southern Grampians,Warrnambool and South West,Vic,Inner Regional Australia
+L806,Victoria Plains,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L807,Northampton,Western Australia - Outback (South),WA,Remote Australia
+L808,Bridgetown-Greenbushes,Bunbury,WA,Outer Regional Australia
+L809,Kimba,South Australia - Outback,SA,Remote Australia
+L810,Katanning,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L811,Jerramungup,Western Australia - Wheat Belt,WA,Remote Australia
+L812,Carnamah,Western Australia - Outback (South),WA,Remote Australia
+L813,Nambucca,Mid North Coast,NSW,Inner Regional Australia
+L814,Ashburton,Western Australia - Outback (North),WA,Very Remote Australia
+L815,West Arthur,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L816,Cootamundra-Gundagai,Riverina,NSW,Inner Regional Australia
+L817,Mount Gambier,South Australia - South East,SA,Outer Regional Australia
+L818,South Perth,Perth - South East,WA,Major Cities of Australia
+L819,Brookton,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L820,Burke,Queensland - Outback,Qld,Very Remote Australia
+L821,Nedlands,Perth - Inner,WA,Major Cities of Australia
+L822,Gingin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L823,Stirling,Perth - Inner,WA,Major Cities of Australia
+L824,Franklin Harbour,South Australia - Outback,SA,Remote Australia
+L825,Northern Beaches,Sydney - Northern Beaches,NSW,Inner Regional Australia
+L826,Coorong,South Australia - South East,SA,Inner Regional Australia
+L827,Waroona,Bunbury,WA,Inner Regional Australia
+L828,Cunderdin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L829,Greater Geraldton,Western Australia - Outback (South),WA,Remote Australia
+L830,Lake Grace,Western Australia - Wheat Belt,WA,Remote Australia
+L831,Kiama,Illawarra,NSW,Major Cities of Australia
+L832,Oberon,Central West,NSW,Inner Regional Australia
+L833,Cranbrook,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L834,Break O'Day,Launceston and North East,Tas,Remote Australia
+L835,Victoria Daly,Northern Territory - Outback,NT,Remote Australia
+L836,Murrumbidgee,Murray,NSW,Outer Regional Australia
+L837,Sydney,Sydney - Eastern Suburbs,NSW,Major Cities of Australia
+L838,Chapman Valley,Western Australia - Outback (South),WA,Outer Regional Australia
+L839,Kingston (SA),South Australia - South East,SA,Remote Australia
+L840,Mandurah,Mandurah,WA,Inner Regional Australia
+L841,Kalamunda,Perth - South East,WA,Inner Regional Australia
+L842,Kellerberrin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L843,Kalamunda,Perth - North East,WA,Inner Regional Australia
+L844,Balonne,Darling Downs - Maranoa,Qld,Very Remote Australia
+L845,Murray River,Murray,NSW,Remote Australia
+L846,Ararat,Ballarat,Vic,Inner Regional Australia
+L847,Wagait,Northern Territory - Outback,NT,Remote Australia
+L848,Weipa,Queensland - Outback,Qld,Very Remote Australia
+L849,Wyndham,Melbourne - West,Vic,Inner Regional Australia
+L850,Barossa,Adelaide - North,SA,Major Cities of Australia
+L851,Pyrenees,Ballarat,Vic,Outer Regional Australia
+L852,Pormpuraaw,Queensland - Outback,Qld,Very Remote Australia
+L853,Wongan-Ballidu,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L854,Karratha,Western Australia - Outback (North),WA,Very Remote Australia
+L855,Bourke,Far West and Orana,NSW,Very Remote Australia
+L856,Murray,Western Australia - Wheat Belt,WA,Inner Regional Australia
+L857,Bathurst Regional,Central West,NSW,Outer Regional Australia
+L858,Redland,Brisbane - East,Qld,Remote Australia
+L859,Moora,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L860,Richmond Valley,Coffs Harbour - Grafton,NSW,Outer Regional Australia
+L861,Upper Hunter,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+L862,Unincorporated Vic,Hume,Vic,Outer Regional Australia
+L863,Melton,Melbourne - West,Vic,Inner Regional Australia
+L864,Greater Shepparton,Hume,Vic,Inner Regional Australia
+L865,Dungog,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+L866,Chittering,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L867,Palm Island,Townsville,Qld,Remote Australia
+L868,West Daly,Northern Territory - Outback,NT,Very Remote Australia
+L869,Mosman Park,Perth - Inner,WA,Major Cities of Australia
+L870,Narrogin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L871,Merredin,Western Australia - Wheat Belt,WA,Remote Australia
+L872,Unincorporated NT,Northern Territory - Outback,NT,Very Remote Australia
+L873,Westonia,Western Australia - Wheat Belt,WA,Remote Australia
+L874,Morawa,Western Australia - Outback (South),WA,Remote Australia
+L875,Claremont,Perth - Inner,WA,Major Cities of Australia
+L876,Mingenew,Western Australia - Outback (South),WA,Outer Regional Australia
+L877,Merredin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L878,Fraser Coast,Wide Bay,Qld,Outer Regional Australia
+L879,,,Qld,
+L880,The Hills,Sydney - Parramatta,NSW,Major Cities of Australia
+L881,Liverpool,Sydney - South West,NSW,Inner Regional Australia
+L882,Boddington,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L883,Yorke Peninsula,Barossa - Yorke - Mid North,SA,Remote Australia
+L884,Goomalling,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L885,Subiaco,Perth - Inner,WA,Major Cities of Australia
+L886,Trayning,Western Australia - Wheat Belt,WA,Remote Australia
+L887,Manjimup,Bunbury,WA,Remote Australia
+L888,Yarra Ranges,Hume,Vic,Inner Regional Australia
+L889,Esperance,Western Australia - Outback (South),WA,Very Remote Australia
+L890,Franklin Harbour,South Australia - Outback,SA,Outer Regional Australia
+L891,West Daly,Northern Territory - Outback,NT,Remote Australia
+L892,Shark Bay,Western Australia - Outback (South),WA,Very Remote Australia
+L893,Exmouth,Western Australia - Outback (South),WA,Very Remote Australia
+L894,Ararat,Ballarat,Vic,Outer Regional Australia
+L895,Sandstone,Western Australia - Outback (South),WA,Very Remote Australia
+L896,Surf Coast,Warrnambool and South West,Vic,Inner Regional Australia
+L897,,,NSW,
+L898,Gnowangerup,Western Australia - Wheat Belt,WA,Outer Regional Australia
+L899,Boyup Brook,Bunbury,WA,Outer Regional Australia
+L900,Cottesloe,Perth - Inner,WA,Major Cities of Australia
+L901,Wickepin,Western Australia - Wheat Belt,WA,Remote Australia
+L902,Leonora,Western Australia - Outback (South),WA,Very Remote Australia
+L903,,,SA,

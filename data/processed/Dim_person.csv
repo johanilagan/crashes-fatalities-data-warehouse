@@ -1,0 +1,9 @@
+person_id,road_user_value
+P1,Driver
+P2,Passenger
+P3,Motorcycle rider
+P4,Pedestrian
+P5,Pedal cyclist
+P6,Other/-9
+P7,
+P8,Motorcycle pillion passenger

@@ -1,0 +1,103 @@
+road_id,road_type,speed_limit
+R1,Arterial Road,100
+R2,Local Road,80
+R3,Local Road,50
+R4,National or State Highway,100
+R5,Sub-arterial Road,100
+R6,,90
+R7,Local Road,60
+R8,National or State Highway,70
+R9,National or State Highway,110
+R10,Local Road,100
+R11,Collector Road,80
+R12,Local Road,
+R13,National or State Highway,60
+R14,Collector Road,60
+R15,,110
+R16,Collector Road,40
+R17,,
+R18,,60
+R19,,80
+R20,National or State Highway,50
+R21,Sub-arterial Road,70
+R22,National or State Highway,80
+R23,,70
+R24,Collector Road,50
+R25,,20
+R26,Sub-arterial Road,90
+R27,Arterial Road,60
+R28,Sub-arterial Road,60
+R29,Collector Road,100
+R30,Arterial Road,80
+R31,National or State Highway,90
+R32,,100
+R33,Sub-arterial Road,80
+R34,Arterial Road,70
+R35,Pedestrian Thoroughfare,10
+R36,,50
+R37,Sub-arterial Road,40
+R38,Local Road,70
+R39,Arterial Road,50
+R40,Sub-arterial Road,50
+R41,Collector Road,110
+R42,Access road,60
+R43,Access road,
+R44,Local Road,90
+R45,Arterial Road,110
+R46,Collector Road,70
+R47,Collector Road,5
+R48,Local Road,40
+R49,Access road,50
+R50,Access road,100
+R51,Pedestrian Thoroughfare,80
+R52,Arterial Road,40
+R53,Sub-arterial Road,110
+R54,,130
+R55,National or State Highway,130
+R56,Access road,80
+R57,Local Road,30
+R58,National or State Highway,
+R59,Local Road,10
+R60,,30
+R61,Busway,80
+R62,Access road,70
+R63,National or State Highway,40
+R64,Arterial Road,90
+R65,Collector Road,25
+R66,Local Road,110
+R67,Pedestrian Thoroughfare,20
+R68,Arterial Road,130
+R69,Pedestrian Thoroughfare,70
+R70,National or State Highway,20
+R71,Arterial Road,20
+R72,Arterial Road,30
+R73,Access road,20
+R74,Sub-arterial Road,
+R75,Collector Road,10
+R76,Arterial Road,
+R77,Access road,40
+R78,Pedestrian Thoroughfare,50
+R79,,40
+R80,Access road,130
+R81,Busway,50
+R82,Access road,110
+R83,Local Road,20
+R84,Pedestrian Thoroughfare,30
+R85,Busway,100
+R86,Collector Road,90
+R87,National or State Highway,30
+R88,Pedestrian Thoroughfare,60
+R89,National or State Highway,10
+R90,Pedestrian Thoroughfare,40
+R91,Arterial Road,25
+R92,,10
+R93,Collector Road,
+R94,Local Road,15
+R95,Sub-arterial Road,25
+R96,Sub-arterial Road,30
+R97,Arterial Road,10
+R98,Local Road,5
+R99,Collector Road,75
+R100,Pedestrian Thoroughfare,100
+R101,,5
+R102,,75
