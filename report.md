@@ -64,8 +64,17 @@ Dimension tables (10 total):
 
 The Starnet model allows for slicing and dicing facts by different combinations of dimensions, useful for business queries.
 
+<p align="center">
+<img src="starnet/starnet.png" alt="Starnet" width="750"/>
+</p>
+
 ### 🧠 Query 1: Most Multiple Crashes by State (Last 10 Years)
 *Which state in Australia recorded the most multiple crashes in the last 10 years?*
+
+<p align="center">
+<img src="starnet/query-1-starnet.png" alt="Query 1 Starnet" width="750"/>
+</p>
+
 ```text
 Relevant Dimensions:
 - Location: State
@@ -76,6 +85,11 @@ Relevant Dimensions:
 
 ### 🚌 Query 2: Fatalities on Monday Bus Crashes
 *How many fatalities occurred on a Monday crash that involved a bus?*
+
+<p align="center">
+<img src="starnet/query-2-starnet.png" alt="Query 2 Starnet" width="750"/>
+</p>
+
 ```text
 Relevant Dimensions:
 - Date: Day of Week = Monday
@@ -86,6 +100,11 @@ Relevant Dimensions:
 
 ### 🌃 Query 3: Nighttime Crash Involvement by Age Group (2021, NSW/VIC/QLD)
 *What age group is most involved in crashes in states NSW, Queensland, and Victoria at night time in 2021?*
+
+<p align="center">
+<img src="starnet/query-3-starnet.png" alt="Query 3 Starnet" width="750"/>
+</p>
+
 ```text
 Relevant Dimensions:
 - Age Group
@@ -97,6 +116,11 @@ Relevant Dimensions:
 
 ### 🎄 Query 4: Crashes by Speed Limit During Christmas (Past 3 Years)
 *How does the speed limit affect the number of crashes in Australia the past 3 Christmas seasons?*
+
+<p align="center">
+<img src="starnet/query-4-starnet.png" alt="Query 4 Starnet" width="750"/>
+</p>
+
 ```text
 Relevant Dimensions:
 - Road: Speed Limit
@@ -107,6 +131,11 @@ Relevant Dimensions:
 
 ### ⚥ Query 5: Gender and Month Combo with Most Fatalities in Major Cities
 *Which gender and month combination had the most fatalities in major cities of Australia?*
+
+<p align="center">
+<img src="starnet/query-5-starnet.png" alt="Query 5 Starnet" width="750"/>
+</p>
+
 ```text
 Relevant Dimensions:
 - Gender
@@ -263,6 +292,10 @@ Similar commands were executed for the other dimension tables.
 
 After the ETL process, the fact and dimension tables were fully populated. A schema Entity Relationship Diagram (ERD) was created in PostgreSQL based on the foreign key relationships.
 
+<p align="center">
+<img src="starnet/schema.png" alt="ERD Schema" width="750"/>
+</p>
+
 This ERD represents a star schema, with:
 - A central fact table (`FactCrash`)
 - Connected to 10 surrounding dimension tables
@@ -277,6 +310,10 @@ This section presents the visualizations used to answer the business queries for
 
 *Which state in Australia recorded the most multiple crashes in the last 10 years?*
 
+<p align="center">
+<img src="charts/query-1-chart.png" alt="Query 1" width="750"/>
+</p>
+
 A pie chart was used to compare multiple crash counts by state.  
 **Insight:** NSW recorded the most multiple crashes, followed by QLD and VIC. There's a large drop-off after the top 3, suggesting a higher concentration of crashes in these states.
 
@@ -285,6 +322,10 @@ A pie chart was used to compare multiple crash counts by state.
 ### Query 2: Fatalities on Monday Bus Crashes
 
 *How many fatalities occurred on a Monday crash that involved a bus?*
+
+<p align="center">
+<img src="charts/query-2-chart.png" alt="Query 2" width="750"/>
+</p>
 
 A circle chart displays fatalities per day for bus-involved crashes.  
 **Insight:** 23 fatalities occurred on Mondays. Saturdays recorded the highest number overall.
@@ -295,6 +336,10 @@ A circle chart displays fatalities per day for bus-involved crashes.
 
 *What age group is most involved in crashes in states NSW, Queensland, and Victoria at night time in 2021?*
 
+<p align="center">
+<img src="charts/query-3-chart.png" alt="Query 3" width="750"/>
+</p>
+
 A circle chart shows the distribution of crash involvement by age group.  
 **Insight:** The 40–64 age group had the highest involvement, possibly due to its wider age range.
 
@@ -304,6 +349,10 @@ A circle chart shows the distribution of crash involvement by age group.
 
 *How does the speed limit affect the number of crashes in Australia the past 3 Christmas seasons?*
 
+<p align="center">
+<img src="charts/query-4-chart.png" alt="Query 4" width="750"/>
+</p>
+
 A line chart was used to evaluate crash count across speed limits.  
 **Insight:** Roads with a speed limit of 100 km/h saw the most crashes. However, this may reflect the number of roads with this speed limit rather than crash propensity.
 
@@ -312,6 +361,10 @@ A line chart was used to evaluate crash count across speed limits.
 ### Query 5: Gender + Month with Most Fatalities (Major Cities)
 
 *Which gender and month combination had the most fatalities in major cities of Australia?*
+
+<p align="center">
+<img src="charts/query-5-chart.png" alt="Query 5" width="750"/>
+</p>
 
 A grouped bar chart illustrates fatality counts by gender and month.  
 **Insight:** Males in September had the highest fatality count. August and September consistently ranked high for both genders.
